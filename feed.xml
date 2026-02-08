@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Duniya Jahan News</title>
+    <link href="https://www.duniyajahan.in/feed.xml" rel="self" />
+    <link href="https://www.duniyajahan.in" />
+    <updated>2026-02-08T20:30:35+05:30</updated>
+    <author>
+        <name>Duniya Jahan News Team</name>
+    </author>
+    <id>https://www.duniyajahan.in</id>
+
+    <entry>
+        <title>Testing</title>
+        <author>
+            <name>Duniya Jahan News Team</name>
+        </author>
+        <link href="https://www.duniyajahan.in/testing.html"/>
+        <id>https://www.duniyajahan.in/testing.html</id>
+
+        <updated>2026-02-08T20:30:35+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    Testing
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Testing
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
